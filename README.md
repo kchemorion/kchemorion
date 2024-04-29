@@ -1,10 +1,7 @@
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kchemorion)
-
-<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kchemorion&show_icons=true)
 
-<br>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kchemorion&theme=xcode)
 
 <br>
