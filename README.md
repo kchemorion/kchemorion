@@ -5,7 +5,23 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kchemorion&show_icons=true)
 
 <br>
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kchemorion&theme=xcode)
+
 <br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kchemorion&layout=compact)
+
+<br>
+
+![Profile views](https://gpvc.arturio.dev/kchemorion)
+
+<br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kchemorion)
+
+<br>
+
+[View my GitHub Skyline](https://skyline.github.com/kchemorion/2024)
+
+<br>
 
