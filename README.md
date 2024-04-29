@@ -1,7 +1,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=kchemorion)
 
-<br
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kchemorion&show_icons=true)
 
 <br>
