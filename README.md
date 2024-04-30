@@ -5,24 +5,24 @@
 
 ## GitHub Live Sudoku
 
-Welcome to the GitHub Live Sudoku game! Participate in solving this Sudoku puzzle right from GitHub. Here’s how the board looks right now:
+Welcome to the GitHub Live Sudoku game! Test your skills by suggesting moves. Earn points for correct answers and climb the leaderboard!
 
+### Current Sudoku Board
+Here’s how the board looks now (click on the numbers to suggest a move):
 |   | A | B | C | D | E | F | G | H | I |
 | - | - | - | - | - | - | - | - | - | - |
-| 1 | 5 | 3 |   |   | 7 |   |   |   |   |
-| 2 | 6 |   |   | 1 | 9 | 5 |   |   |   |
-| 3 |   | 9 | 8 |   |   |   |   | 6 |   |
-| 4 | 8 |   |   |   | 6 |   |   |   | 3 |
-| 5 | 4 |   |   | 8 |   | 3 |   |   | 1 |
-| 6 | 7 |   |   |   | 2 |   |   |   | 6 |
-| 7 |   | 6 |   |   |   |   | 2 | 8 |   |
-| 8 |   |   |   | 4 | 1 | 9 |   |   | 5 |
-| 9 |   |   |   |   | 8 |   |   | 7 | 9 |
+| 1 | 5 | 3 | [➕](https://github.com/yourusername/GitHub-Sudoku/issues/new?title=Move+X+at+C1) | ... | 7 | ... | ... | ... | ... |
+
+### Leaderboard
+| Rank | User | Points |
+| ---- | ---- | ------ |
+| 1    | @user1 | 30    |
+| 2    | @user2 | 20    |
 
 ### How to Play
-- Choose a cell that's blank and decide the number you want to place.
-- Click on the cell in the table which links to a pre-formatted GitHub issue for that specific cell.
-- Submit your number in the issue. Once approved through automation, the board will update with your entry!
+- Click a link in the Sudoku board to suggest a number for that cell.
+- If your suggestion is correct, you earn 10 points and your move is reflected on the board.
+- See your name rise in the leaderboard!
 
 #### Get Involved!
 Participate directly through GitHub issues or watch as the community collaborates to solve the puzzle!
