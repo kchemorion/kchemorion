@@ -19,7 +19,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pyyaml # Assuming YAML is used to manage the Sudoku board state.
+        pip install pyyaml requests # Assuming YAML is used to manage the Sudoku board state.
 
     - name: Validate and update the Sudoku board
       run: python .github/scripts/validate_and_update.py
