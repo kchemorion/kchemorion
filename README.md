@@ -1,8 +1,4 @@
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kchemorion)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kchemorion&layout=compact)
-
-
 ## Please help me solve this sudoku 😭
 
 Welcome to the GitHub Live Sudoku game! Participate in solving this Sudoku puzzle right from GitHub. Here’s how the board looks right now:
@@ -26,3 +22,8 @@ Welcome to the GitHub Live Sudoku game! Participate in solving this Sudoku puzzl
 
 #### Get Involved!
 Participate directly through GitHub issues or watch as the community collaborates to solve the puzzle!
+
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kchemorion)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kchemorion&layout=compact)
+
