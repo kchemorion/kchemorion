@@ -1,8 +1,6 @@
 
 ## Please help me solve this sudoku 😭
 
-Welcome to the GitHub Live Sudoku game! Participate in solving this Sudoku puzzle right from GitHub. Here’s how the board looks right now:
-
 |   | A | B | C | D | E | F | G | H | I |
 | - | - | - | - | - | - | - | - | - | - |
 | 1 | 5 | 3 | [➕](https://github.com/kchemorion/kchemorion/issues/new?title=Move+at+C1) | [➕](https://github.com/kchemorion/kchemorion/issues/new?title=Move+at+D1) | 7 | [➕](https://github.com/kchemorion/kchemorion/issues/new?title=Move+at+F1) | [➕](https://github.com/kchemorion/kchemorion/issues/new?title=Move+at+G1) | [➕](https://github.com/kchemorion/kchemorion/issues/new?title=Move+at+H1) | [➕](https://github.com/kchemorion/kchemorion/issues/new?title=Move+at+I1) |
